@@ -73,12 +73,7 @@ export default {
   background-size: 30px 18px; /* 设置背景图的大小 */
   background-repeat: no-repeat;/* 设置背景图是否平铺 */
   background-image: url(http://img3.imgtn.bdimg.com/it/u=957852617,3947337788&fm=26&gp=0.jpg);
-  vertical-align: top; /* 设置背景图对齐方式 */
-}
-.name{
-  margin-left: 6px;
-  font-size: 16px;
-  line-height: 18px;
+  vert 18px;
 }
 .description{
 font-size: 12px;
@@ -136,5 +131,4 @@ font-style: normal;
   text-overflow: ellipsis;
   background: rgba(0,0,0,0.4);
 }
-
 </style>
